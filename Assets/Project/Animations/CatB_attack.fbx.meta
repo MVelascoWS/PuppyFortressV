@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 7f896e231559f9e4793cdde1912c6288
+timeCreated: 1519854395
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CatB_geo
+    100004: CatB_MainC
+    100006: CatB_SH_HeadJ
+    100008: CatB_SH_HeadTipJ
+    100010: CatB_SH_JawJ
+    100012: CatB_SH_JawTipJ
+    100014: CatB_SH_lAnkleJ
+    100016: CatB_SH_lBallJ
+    100018: CatB_SH_lClavicleJ
+    100020: CatB_SH_lElbowJ
+    100022: CatB_SH_lEyeJ
+    100024: CatB_SH_lFinger1J1
+    100026: CatB_SH_lFinger1J2
+    100028: CatB_SH_lFinger1J3
+    100030: CatB_SH_lFinger1JTip
+    100032: CatB_SH_lFinger2J1
+    100034: CatB_SH_lFinger2J2
+    100036: CatB_SH_lFinger2J3
+    100038: CatB_SH_lFinger2JTip
+    100040: CatB_SH_lForearmJ
+    100042: CatB_SH_lHipJ
+    100044: CatB_SH_lKneeJ
+    100046: CatB_SH_lPalmJ
+    100048: CatB_SH_lShoulderJ
+    100050: CatB_SH_lThumbJ1
+    100052: CatB_SH_lThumbJ2
+    100054: CatB_SH_lThumbJ3
+    100056: CatB_SH_lThumbJTip
+    100058: CatB_SH_lToeJ
+    100060: CatB_SH_lWristJ
+    100062: CatB_SH_Neck01J
+    100064: CatB_SH_rAnkleJ
+    100066: CatB_SH_rBallJ
+    100068: CatB_SH_rClavicleJ
+    100070: CatB_SH_rElbowJ
+    100072: CatB_SH_rEyeJ
+    100074: CatB_SH_rFinger1J1
+    100076: CatB_SH_rFinger1J2
+    100078: CatB_SH_rFinger1J3
+    100080: CatB_SH_rFinger1JTip
+    100082: CatB_SH_rFinger2J1
+    100084: CatB_SH_rFinger2J2
+    100086: CatB_SH_rFinger2J3
+    100088: CatB_SH_rFinger2JTip
+    100090: CatB_SH_rForearmJ
+    100092: CatB_SH_rHipJ
+    100094: CatB_SH_rKneeJ
+    100096: CatB_SH_ROOTJ
+    100098: CatB_SH_rPalmJ
+    100100: CatB_SH_rShoulderJ
+    100102: CatB_SH_rThumbJ1
+    100104: CatB_SH_rThumbJ2
+    100106: CatB_SH_rThumbJ3
+    100108: CatB_SH_rThumbJTip
+    100110: CatB_SH_rToeJ
+    100112: CatB_SH_rWristJ
+    100114: CatB_SH_Spine01J
+    100116: CatB_SH_SpineTopJ
+    100118: Geo
+    100120: tail_jntTemp1
+    100122: tail_jntTemp2
+    100124: tail_jntTemp3
+    100126: tail_jntTemp4
+    400000: //RootNode
+    400002: CatB_geo
+    400004: CatB_MainC
+    400006: CatB_SH_HeadJ
+    400008: CatB_SH_HeadTipJ
+    400010: CatB_SH_JawJ
+    400012: CatB_SH_JawTipJ
+    400014: CatB_SH_lAnkleJ
+    400016: CatB_SH_lBallJ
+    400018: CatB_SH_lClavicleJ
+    400020: CatB_SH_lElbowJ
+    400022: CatB_SH_lEyeJ
+    400024: CatB_SH_lFinger1J1
+    400026: CatB_SH_lFinger1J2
+    400028: CatB_SH_lFinger1J3
+    400030: CatB_SH_lFinger1JTip
+    400032: CatB_SH_lFinger2J1
+    400034: CatB_SH_lFinger2J2
+    400036: CatB_SH_lFinger2J3
+    400038: CatB_SH_lFinger2JTip
+    400040: CatB_SH_lForearmJ
+    400042: CatB_SH_lHipJ
+    400044: CatB_SH_lKneeJ
+    400046: CatB_SH_lPalmJ
+    400048: CatB_SH_lShoulderJ
+    400050: CatB_SH_lThumbJ1
+    400052: CatB_SH_lThumbJ2
+    400054: CatB_SH_lThumbJ3
+    400056: CatB_SH_lThumbJTip
+    400058: CatB_SH_lToeJ
+    400060: CatB_SH_lWristJ
+    400062: CatB_SH_Neck01J
+    400064: CatB_SH_rAnkleJ
+    400066: CatB_SH_rBallJ
+    400068: CatB_SH_rClavicleJ
+    400070: CatB_SH_rElbowJ
+    400072: CatB_SH_rEyeJ
+    400074: CatB_SH_rFinger1J1
+    400076: CatB_SH_rFinger1J2
+    400078: CatB_SH_rFinger1J3
+    400080: CatB_SH_rFinger1JTip
+    400082: CatB_SH_rFinger2J1
+    400084: CatB_SH_rFinger2J2
+    400086: CatB_SH_rFinger2J3
+    400088: CatB_SH_rFinger2JTip
+    400090: CatB_SH_rForearmJ
+    400092: CatB_SH_rHipJ
+    400094: CatB_SH_rKneeJ
+    400096: CatB_SH_ROOTJ
+    400098: CatB_SH_rPalmJ
+    400100: CatB_SH_rShoulderJ
+    400102: CatB_SH_rThumbJ1
+    400104: CatB_SH_rThumbJ2
+    400106: CatB_SH_rThumbJ3
+    400108: CatB_SH_rThumbJTip
+    400110: CatB_SH_rToeJ
+    400112: CatB_SH_rWristJ
+    400114: CatB_SH_Spine01J
+    400116: CatB_SH_SpineTopJ
+    400118: Geo
+    400120: tail_jntTemp1
+    400122: tail_jntTemp2
+    400124: tail_jntTemp3
+    400126: tail_jntTemp4
+    2100000: lambert2
+    4300000: CatB_geo
+    7400000: Attack
+    9500000: //RootNode
+    13700000: CatB_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 929af3bf6f482074e881d8ce731f288f,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

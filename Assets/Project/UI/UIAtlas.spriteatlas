@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 31587a7a866475c49b222d04e72dd4c0, type: 3}
+    - {fileID: 2800000, guid: bf29a204b7e91164c8e155bf7f657eb6, type: 3}
+    - {fileID: 2800000, guid: 6979337459017204d8891ab162d2240e, type: 3}
+    - {fileID: 2800000, guid: 2416e366b44559c4f825caf7f9fbcebf, type: 3}
+    - {fileID: 2800000, guid: 14e14f1c253c2b642a0e283d9711a009, type: 3}
+    - {fileID: 2800000, guid: 2f6c1dfbb35e70c4394f41516c807298, type: 3}
+    - {fileID: 2800000, guid: 9fbc20cd3e68a014f809b47c7cd5a2c8, type: 3}
+    - {fileID: 2800000, guid: c3f311eb57c7eaa47ac541d6f556e497, type: 3}
+    - {fileID: 2800000, guid: 91c83f75d12e05649a5f8fc887db5ff9, type: 3}
+    - {fileID: 2800000, guid: 05f6ef581b9110e438b83bac264953d3, type: 3}
+    - {fileID: 2800000, guid: 73130956973c8c6469b6de91cd6b1775, type: 3}
+    - {fileID: 2800000, guid: 70df88b420d600e408fe083273c50b54, type: 3}
+    totalSpriteSurfaceArea: 196512
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bf29a204b7e91164c8e155bf7f657eb6, type: 3}
+  - {fileID: 21300000, guid: 6979337459017204d8891ab162d2240e, type: 3}
+  - {fileID: 21300000, guid: 70df88b420d600e408fe083273c50b54, type: 3}
+  - {fileID: 21300000, guid: 91c83f75d12e05649a5f8fc887db5ff9, type: 3}
+  - {fileID: 21300000, guid: 73130956973c8c6469b6de91cd6b1775, type: 3}
+  - {fileID: 21300000, guid: 2416e366b44559c4f825caf7f9fbcebf, type: 3}
+  - {fileID: 21300000, guid: 05f6ef581b9110e438b83bac264953d3, type: 3}
+  - {fileID: 21300000, guid: 31587a7a866475c49b222d04e72dd4c0, type: 3}
+  - {fileID: 21300000, guid: c3f311eb57c7eaa47ac541d6f556e497, type: 3}
+  - {fileID: 21300000, guid: 2f6c1dfbb35e70c4394f41516c807298, type: 3}
+  - {fileID: 21300000, guid: 14e14f1c253c2b642a0e283d9711a009, type: 3}
+  - {fileID: 21300000, guid: 9fbc20cd3e68a014f809b47c7cd5a2c8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - IMG_MobileGames_BtnPhone_v001
+  - IMG_MobileGames_IconConfirmationCheck_v001
+  - IMG_MobileGames_CheckBox_v001
+  - IMG_MobileGames_IconPreferences_v001
+  - IMG_MobileGames_IconStarScore_v001
+  - IMG_MobileGames_IconContinue_v001
+  - IMG_MobileGames_IconRestore_v001
+  - IMG_MobileGames_BtnCardboard_v001
+  - IMG_MobileGames_IconObjetives_v001
+  - IMG_MobileGames_IconLeaderborad_v001
+  - IMG_MobileGames_IconExit_v001
+  - IMG_MobileGames_IconNamePlayer_v001
+  m_Tag: UIAtlas
+  m_IsVariant: 0

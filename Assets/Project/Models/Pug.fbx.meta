@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: e1a674034d0e540449207869ff42fad3
+timeCreated: 1519665981
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cuerda_jntTemp2
+    100002: Geo_PUG
+    100004: Mango_jntTemp1
+    100006: Piedra_geo
+    100008: Piedra_jntTemp1
+    100010: //RootNode
+    100012: Pug_MainC
+    100014: Pug_Mesh
+    100016: Pug_SH_HeadJ
+    100018: Pug_SH_HeadTipJ
+    100020: Pug_SH_JawJ
+    100022: Pug_SH_JawTipJ
+    100024: Pug_SH_lAnkleJ
+    100026: Pug_SH_lBallJ
+    100028: Pug_SH_lClavicleJ
+    100030: Pug_SH_lElbowJ
+    100032: Pug_SH_lEyeJ
+    100034: Pug_SH_lFinger1J1
+    100036: Pug_SH_lFinger1J2
+    100038: Pug_SH_lFinger1J3
+    100040: Pug_SH_lFinger1JTip
+    100042: Pug_SH_lFinger2J1
+    100044: Pug_SH_lFinger2J2
+    100046: Pug_SH_lFinger2J3
+    100048: Pug_SH_lFinger2JTip
+    100050: Pug_SH_lForearmJ
+    100052: Pug_SH_lHipJ
+    100054: Pug_SH_lKneeJ
+    100056: Pug_SH_lPalmJ
+    100058: Pug_SH_lShoulderJ
+    100060: Pug_SH_lThumbJ1
+    100062: Pug_SH_lThumbJ2
+    100064: Pug_SH_lThumbJ3
+    100066: Pug_SH_lThumbJTip
+    100068: Pug_SH_lToeJ
+    100070: Pug_SH_lWristJ
+    100072: Pug_SH_Neck01J
+    100074: Pug_SH_rAnkleJ
+    100076: Pug_SH_rBallJ
+    100078: Pug_SH_rClavicleJ
+    100080: Pug_SH_rElbowJ
+    100082: Pug_SH_rEyeJ
+    100084: Pug_SH_rFinger1J1
+    100086: Pug_SH_rFinger1J2
+    100088: Pug_SH_rFinger1J3
+    100090: Pug_SH_rFinger1JTip
+    100092: Pug_SH_rFinger2J1
+    100094: Pug_SH_rFinger2J2
+    100096: Pug_SH_rFinger2J3
+    100098: Pug_SH_rFinger2JTip
+    100100: Pug_SH_rForearmJ
+    100102: Pug_SH_rHipJ
+    100104: Pug_SH_rKneeJ
+    100106: Pug_SH_ROOTJ
+    100108: Pug_SH_rPalmJ
+    100110: Pug_SH_rShoulderJ
+    100112: Pug_SH_rThumbJ1
+    100114: Pug_SH_rThumbJ2
+    100116: Pug_SH_rThumbJ3
+    100118: Pug_SH_rThumbJTip
+    100120: Pug_SH_rToeJ
+    100122: Pug_SH_rWristJ
+    100124: Pug_SH_Spine01J
+    100126: Pug_SH_SpineTopJ
+    100128: Resortera_geo
+    400000: cuerda_jntTemp2
+    400002: Geo_PUG
+    400004: Mango_jntTemp1
+    400006: Piedra_geo
+    400008: Piedra_jntTemp1
+    400010: //RootNode
+    400012: Pug_MainC
+    400014: Pug_Mesh
+    400016: Pug_SH_HeadJ
+    400018: Pug_SH_HeadTipJ
+    400020: Pug_SH_JawJ
+    400022: Pug_SH_JawTipJ
+    400024: Pug_SH_lAnkleJ
+    400026: Pug_SH_lBallJ
+    400028: Pug_SH_lClavicleJ
+    400030: Pug_SH_lElbowJ
+    400032: Pug_SH_lEyeJ
+    400034: Pug_SH_lFinger1J1
+    400036: Pug_SH_lFinger1J2
+    400038: Pug_SH_lFinger1J3
+    400040: Pug_SH_lFinger1JTip
+    400042: Pug_SH_lFinger2J1
+    400044: Pug_SH_lFinger2J2
+    400046: Pug_SH_lFinger2J3
+    400048: Pug_SH_lFinger2JTip
+    400050: Pug_SH_lForearmJ
+    400052: Pug_SH_lHipJ
+    400054: Pug_SH_lKneeJ
+    400056: Pug_SH_lPalmJ
+    400058: Pug_SH_lShoulderJ
+    400060: Pug_SH_lThumbJ1
+    400062: Pug_SH_lThumbJ2
+    400064: Pug_SH_lThumbJ3
+    400066: Pug_SH_lThumbJTip
+    400068: Pug_SH_lToeJ
+    400070: Pug_SH_lWristJ
+    400072: Pug_SH_Neck01J
+    400074: Pug_SH_rAnkleJ
+    400076: Pug_SH_rBallJ
+    400078: Pug_SH_rClavicleJ
+    400080: Pug_SH_rElbowJ
+    400082: Pug_SH_rEyeJ
+    400084: Pug_SH_rFinger1J1
+    400086: Pug_SH_rFinger1J2
+    400088: Pug_SH_rFinger1J3
+    400090: Pug_SH_rFinger1JTip
+    400092: Pug_SH_rFinger2J1
+    400094: Pug_SH_rFinger2J2
+    400096: Pug_SH_rFinger2J3
+    400098: Pug_SH_rFinger2JTip
+    400100: Pug_SH_rForearmJ
+    400102: Pug_SH_rHipJ
+    400104: Pug_SH_rKneeJ
+    400106: Pug_SH_ROOTJ
+    400108: Pug_SH_rPalmJ
+    400110: Pug_SH_rShoulderJ
+    400112: Pug_SH_rThumbJ1
+    400114: Pug_SH_rThumbJ2
+    400116: Pug_SH_rThumbJ3
+    400118: Pug_SH_rThumbJTip
+    400120: Pug_SH_rToeJ
+    400122: Pug_SH_rWristJ
+    400124: Pug_SH_Spine01J
+    400126: Pug_SH_SpineTopJ
+    400128: Resortera_geo
+    2100000: lambert3
+    2100002: lambert4
+    2100004: lambert5
+    4300000: Pug_Mesh
+    4300002: Resortera_geo
+    4300004: Piedra_geo
+    7400000: Take 001
+    7400002: Shoot
+    7400004: Charge
+    9500000: //RootNode
+    13700000: Piedra_geo
+    13700002: Pug_Mesh
+    13700004: Resortera_geo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: a361156cb22ea964b8f037c441fc22fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 0b6720e31edad5e42b2c3b17f0847e91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 0218764a81fd87c4e857535aa54c6280, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 24
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Charge
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

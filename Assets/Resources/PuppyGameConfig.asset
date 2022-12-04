@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4726ed66530bc418d927e4fc432b4339, type: 3}
+  m_Name: PuppyGameConfig
+  m_EditorClassIdentifier: 
+  _gameMixer: {fileID: 24100000, guid: ec8775bdacd6f405580152af48731f91, type: 2}
+  Music:
+    defaultValue: 1
+    _key: Music
+  SFX:
+    defaultValue: 1
+    _key: SFX
+  LastScore:
+    defaultValue: 0
+    _key: LastHighscore
+  RecordCount:
+    defaultValue: 0
+    _key: RecordCount
+  Language:
+    defaultValue: 10
+    _key: Language
+  VRSelected:
+    defaultValue: 0
+    _key: PlayerName

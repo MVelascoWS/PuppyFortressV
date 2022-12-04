@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 929af3bf6f482074e881d8ce731f288f
+timeCreated: 1519665981
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CatB_geo
+    100004: CatB_MainC
+    100006: CatB_SH_HeadJ
+    100008: CatB_SH_HeadTipJ
+    100010: CatB_SH_JawJ
+    100012: CatB_SH_JawTipJ
+    100014: CatB_SH_lAnkleJ
+    100016: CatB_SH_lBallJ
+    100018: CatB_SH_lClavicleJ
+    100020: CatB_SH_lElbowJ
+    100022: CatB_SH_lEyeJ
+    100024: CatB_SH_lFinger1J1
+    100026: CatB_SH_lFinger1J2
+    100028: CatB_SH_lFinger1J3
+    100030: CatB_SH_lFinger1JTip
+    100032: CatB_SH_lFinger2J1
+    100034: CatB_SH_lFinger2J2
+    100036: CatB_SH_lFinger2J3
+    100038: CatB_SH_lFinger2JTip
+    100040: CatB_SH_lForearmJ
+    100042: CatB_SH_lHipJ
+    100044: CatB_SH_lKneeJ
+    100046: CatB_SH_lPalmJ
+    100048: CatB_SH_lShoulderJ
+    100050: CatB_SH_lThumbJ1
+    100052: CatB_SH_lThumbJ2
+    100054: CatB_SH_lThumbJ3
+    100056: CatB_SH_lThumbJTip
+    100058: CatB_SH_lToeJ
+    100060: CatB_SH_lWristJ
+    100062: CatB_SH_Neck01J
+    100064: CatB_SH_rAnkleJ
+    100066: CatB_SH_rBallJ
+    100068: CatB_SH_rClavicleJ
+    100070: CatB_SH_rElbowJ
+    100072: CatB_SH_rEyeJ
+    100074: CatB_SH_rFinger1J1
+    100076: CatB_SH_rFinger1J2
+    100078: CatB_SH_rFinger1J3
+    100080: CatB_SH_rFinger1JTip
+    100082: CatB_SH_rFinger2J1
+    100084: CatB_SH_rFinger2J2
+    100086: CatB_SH_rFinger2J3
+    100088: CatB_SH_rFinger2JTip
+    100090: CatB_SH_rForearmJ
+    100092: CatB_SH_rHipJ
+    100094: CatB_SH_rKneeJ
+    100096: CatB_SH_ROOTJ
+    100098: CatB_SH_rPalmJ
+    100100: CatB_SH_rShoulderJ
+    100102: CatB_SH_rThumbJ1
+    100104: CatB_SH_rThumbJ2
+    100106: CatB_SH_rThumbJ3
+    100108: CatB_SH_rThumbJTip
+    100110: CatB_SH_rToeJ
+    100112: CatB_SH_rWristJ
+    100114: CatB_SH_Spine01J
+    100116: CatB_SH_SpineTopJ
+    100118: Geo
+    100120: star_geo
+    100122: star_jnt
+    100124: tail_jntTemp1
+    100126: tail_jntTemp2
+    100128: tail_jntTemp3
+    100130: tail_jntTemp4
+    400000: //RootNode
+    400002: CatB_geo
+    400004: CatB_MainC
+    400006: CatB_SH_HeadJ
+    400008: CatB_SH_HeadTipJ
+    400010: CatB_SH_JawJ
+    400012: CatB_SH_JawTipJ
+    400014: CatB_SH_lAnkleJ
+    400016: CatB_SH_lBallJ
+    400018: CatB_SH_lClavicleJ
+    400020: CatB_SH_lElbowJ
+    400022: CatB_SH_lEyeJ
+    400024: CatB_SH_lFinger1J1
+    400026: CatB_SH_lFinger1J2
+    400028: CatB_SH_lFinger1J3
+    400030: CatB_SH_lFinger1JTip
+    400032: CatB_SH_lFinger2J1
+    400034: CatB_SH_lFinger2J2
+    400036: CatB_SH_lFinger2J3
+    400038: CatB_SH_lFinger2JTip
+    400040: CatB_SH_lForearmJ
+    400042: CatB_SH_lHipJ
+    400044: CatB_SH_lKneeJ
+    400046: CatB_SH_lPalmJ
+    400048: CatB_SH_lShoulderJ
+    400050: CatB_SH_lThumbJ1
+    400052: CatB_SH_lThumbJ2
+    400054: CatB_SH_lThumbJ3
+    400056: CatB_SH_lThumbJTip
+    400058: CatB_SH_lToeJ
+    400060: CatB_SH_lWristJ
+    400062: CatB_SH_Neck01J
+    400064: CatB_SH_rAnkleJ
+    400066: CatB_SH_rBallJ
+    400068: CatB_SH_rClavicleJ
+    400070: CatB_SH_rElbowJ
+    400072: CatB_SH_rEyeJ
+    400074: CatB_SH_rFinger1J1
+    400076: CatB_SH_rFinger1J2
+    400078: CatB_SH_rFinger1J3
+    400080: CatB_SH_rFinger1JTip
+    400082: CatB_SH_rFinger2J1
+    400084: CatB_SH_rFinger2J2
+    400086: CatB_SH_rFinger2J3
+    400088: CatB_SH_rFinger2JTip
+    400090: CatB_SH_rForearmJ
+    400092: CatB_SH_rHipJ
+    400094: CatB_SH_rKneeJ
+    400096: CatB_SH_ROOTJ
+    400098: CatB_SH_rPalmJ
+    400100: CatB_SH_rShoulderJ
+    400102: CatB_SH_rThumbJ1
+    400104: CatB_SH_rThumbJ2
+    400106: CatB_SH_rThumbJ3
+    400108: CatB_SH_rThumbJTip
+    400110: CatB_SH_rToeJ
+    400112: CatB_SH_rWristJ
+    400114: CatB_SH_Spine01J
+    400116: CatB_SH_SpineTopJ
+    400118: Geo
+    400120: star_geo
+    400122: star_jnt
+    400124: tail_jntTemp1
+    400126: tail_jntTemp2
+    400128: tail_jntTemp3
+    400130: tail_jntTemp4
+    2100000: lambert2
+    4300000: CatB_geo
+    4300002: star_geo
+    7400000: Take 001
+    7400002: Walk
+    7400004: SimpleDamage
+    7400006: Dead
+    7400008: Eat
+    7400010: Idle
+    9500000: //RootNode
+    13700000: CatB_geo
+    13700002: star_geo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: df4d98a907905074981e302542acd207, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleDamage
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dead
+      takeName: Take 001
+      firstFrame: 66
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eat
+      takeName: Take 001
+      firstFrame: 107
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CatB_MainC
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_Neck01J
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_Neck01J/CatB_SH_HeadJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_Neck01J/CatB_SH_HeadJ/CatB_SH_HeadTipJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_Neck01J/CatB_SH_HeadJ/CatB_SH_JawJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_Neck01J/CatB_SH_HeadJ/CatB_SH_JawJ/CatB_SH_JawTipJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_Neck01J/CatB_SH_HeadJ/CatB_SH_lEyeJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_Neck01J/CatB_SH_HeadJ/CatB_SH_rEyeJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lForearmJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger1J1
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger1J1/CatB_SH_lFinger1J2
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger1J1/CatB_SH_lFinger1J2/CatB_SH_lFinger1J3
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger1J1/CatB_SH_lFinger1J2/CatB_SH_lFinger1J3/CatB_SH_lFinger1JTip
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger2J1
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger2J1/CatB_SH_lFinger2J2
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger2J1/CatB_SH_lFinger2J2/CatB_SH_lFinger2J3
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lPalmJ/CatB_SH_lFinger2J1/CatB_SH_lFinger2J2/CatB_SH_lFinger2J3/CatB_SH_lFinger2JTip
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lThumbJ1
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lThumbJ1/CatB_SH_lThumbJ2
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lThumbJ1/CatB_SH_lThumbJ2/CatB_SH_lThumbJ3
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_lClavicleJ/CatB_SH_lShoulderJ/CatB_SH_lElbowJ/CatB_SH_lWristJ/CatB_SH_lThumbJ1/CatB_SH_lThumbJ2/CatB_SH_lThumbJ3/CatB_SH_lThumbJTip
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rForearmJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger1J1
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger1J1/CatB_SH_rFinger1J2
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger1J1/CatB_SH_rFinger1J2/CatB_SH_rFinger1J3
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger1J1/CatB_SH_rFinger1J2/CatB_SH_rFinger1J3/CatB_SH_rFinger1JTip
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger2J1
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger2J1/CatB_SH_rFinger2J2
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger2J1/CatB_SH_rFinger2J2/CatB_SH_rFinger2J3
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rPalmJ/CatB_SH_rFinger2J1/CatB_SH_rFinger2J2/CatB_SH_rFinger2J3/CatB_SH_rFinger2JTip
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rThumbJ1
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rThumbJ1/CatB_SH_rThumbJ2
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rThumbJ1/CatB_SH_rThumbJ2/CatB_SH_rThumbJ3
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_Spine01J/CatB_SH_SpineTopJ/CatB_SH_rClavicleJ/CatB_SH_rShoulderJ/CatB_SH_rElbowJ/CatB_SH_rWristJ/CatB_SH_rThumbJ1/CatB_SH_rThumbJ2/CatB_SH_rThumbJ3/CatB_SH_rThumbJTip
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_lHipJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_lHipJ/CatB_SH_lKneeJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_lHipJ/CatB_SH_lKneeJ/CatB_SH_lAnkleJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_lHipJ/CatB_SH_lKneeJ/CatB_SH_lAnkleJ/CatB_SH_lBallJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_lHipJ/CatB_SH_lKneeJ/CatB_SH_lAnkleJ/CatB_SH_lBallJ/CatB_SH_lToeJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_rHipJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_rHipJ/CatB_SH_rKneeJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_rHipJ/CatB_SH_rKneeJ/CatB_SH_rAnkleJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_rHipJ/CatB_SH_rKneeJ/CatB_SH_rAnkleJ/CatB_SH_rBallJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/CatB_SH_rHipJ/CatB_SH_rKneeJ/CatB_SH_rAnkleJ/CatB_SH_rBallJ/CatB_SH_rToeJ
+        weight: 0
+      - path: CatB_MainC/CatB_SH_ROOTJ/tail_jntTemp1
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/tail_jntTemp1/tail_jntTemp2
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/tail_jntTemp1/tail_jntTemp2/tail_jntTemp3
+        weight: 1
+      - path: CatB_MainC/CatB_SH_ROOTJ/tail_jntTemp1/tail_jntTemp2/tail_jntTemp3/tail_jntTemp4
+        weight: 1
+      - path: CatB_MainC/star_jnt
+        weight: 1
+      - path: Geo
+        weight: 1
+      - path: Geo/CatB_geo
+        weight: 1
+      - path: Geo/star_geo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
